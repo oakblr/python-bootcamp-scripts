@@ -1,6 +1,6 @@
 from time import sleep
 def main():
-  print("Codefest 2020 Bootcamp: Example Python Programs")
+  print("Codefest 2021 Bootcamp: Example Python Programs")
   print("-------------------------------------------------\n")
 
   delay = 1.3
